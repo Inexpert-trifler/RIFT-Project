@@ -6,8 +6,6 @@ RIFT 2026 Hackathon – Money Muling Detection Challenge
 🔗 Live Application:
 https://lambent-pegasus-c7de7f.netlify.app/
 
-🎥 Demo Video (LinkedIn Post):
-[Add LinkedIn Video Link Here]
 
 📂 GitHub Repository:
 https://github.com/Inexpert-trifler/RIFT-Project
