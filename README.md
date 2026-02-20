@@ -189,7 +189,7 @@ Reduced false positives by excluding legitimate high-volume patterns
 
 🛠 Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/Inexpert-trifler/vigilant-nodes.git
+https://github.com/Inexpert-trifler/RIFT-Project
 2️⃣ Install Dependencies
 npm install
 3️⃣ Start Server
