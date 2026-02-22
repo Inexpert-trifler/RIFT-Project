@@ -233,7 +233,7 @@ Kunal Adtani
 Dhruv Sharma
 
 First-Year Engineering Students
-RIFT 2026 Hackathon Participants
+RIFT 2026 Hackathon Participant
 
 🏁 Conclusion
 
