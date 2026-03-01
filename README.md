@@ -3,7 +3,7 @@ Graph-Based Financial Crime Detection Engine
 RIFT 2026 Hackathon – Money Muling Detection Challenge
 🚀 Live Demo
 
-🔗 Live Application:
+🔗 Live Application
 https://lambent-pegasus-c7de7f.netlify.app/
 
 
